@@ -1,0 +1,53 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+.dero-t{
+    width: 60px;
+}
+.carousel-item img{
+    height:600px ;
+}
+.product img{
+    width: 250px;
+    height: 250px;
+    border-radius: 10px;
+}
+.Products{
+    display: flex;
+    justify-content: center;
+}
+.product{
+    margin: 20px;
+}
+.null{
+    margin-top: 20px;
+    text-align: center;
+}
+.foot{
+    display: flex;
+}
+.two{
+    display: flex;
+    flex-direction: column;
+    margin-top: 90px;
+    margin-left: 120px;
+}
+.first{
+    margin-top: 80px;
+    margin-left: 20px;
+}
+.map{
+    margin-left:250px ;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.two a{
+    margin: 10px;
+    color: white;
+}
+.seven{
+    margin-top: 15px;
+    background-color: black;
+    color: white;
+}
